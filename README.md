@@ -1,5 +1,15 @@
 # Ngspotify
 
+#DESCRIPTION
+
+This app will provide to browse through artist and view album and thier songs.
+
+#Live Demo
+
+https://vharshit1.github.io/ngspotify
+
+This project was generated with Angular CLI version 1.0.0-beta.32.3.
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development server
